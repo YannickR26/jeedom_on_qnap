@@ -26,7 +26,7 @@ Pour installer Jeedom nous allons passer par Docker. Sur QNAP c'est Container St
 
 ## Installation de mysql
 
-- Dans l'onglet `Containers` cliquer sur `jeedom` (le nom de votre machine)
+- Dans l'onglet `Containers` cliquer sur `jeedom-1` (le nom de votre docker)
 ![](pictures/containers.png)
 - Cliquer sur `Terminal` et entrer la commande suivante :
 ```
@@ -70,7 +70,8 @@ Redemarrer votre Docker
 ## Probleme liée à notre installation
 
 Me concernant j'ai 2 problèmes lors du lancement de Jeedom
-![](pictures/jeedom_bug.png)
+
+![](pictures/Jeedom_bug.png)
 
 ### Correction du premier probleme (tache cron)
 
