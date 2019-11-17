@@ -71,6 +71,8 @@ Redemarrer votre Docker
 
 Me concernant j'ai 2 problèmes lors du lancement de Jeedom
 
+![](pictures/jeedom_bug.png)
+
 ![](pictures/Jeedom_bug.png)
 
 ### Correction du premier probleme (tache cron)
