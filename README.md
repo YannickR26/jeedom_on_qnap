@@ -1,0 +1,1 @@
+jeedom_on_qnap
